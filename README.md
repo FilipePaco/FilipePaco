@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://beacons.ai/FilipePaco">
-  <img height="180em" align = "center" width = "50%" src="https://github-readme-stats.vercel.app/api?username=FilipePaco&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="167em" align = "center" width = "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaco&layout=compact&langs_count=16&theme=outrun"/>
+  <img height="167em"  src="https://github-readme-stats.vercel.app/api?username=FilipePaco&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaco&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
