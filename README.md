@@ -3,7 +3,7 @@
 
 - 🔭 "Tentando ser melhor"
 - 🌱 Atualmente tenho aprendido Java
-- ⚡ Cursando Engenharia de Software na UFG
+- ⚡ Cursando Engenharia de Software na UFG (2021 - 2026)
 
 <div>
   <a href="https://beacons.ai/FilipePaco">
