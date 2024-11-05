@@ -2,8 +2,8 @@
 
 
 - 🔭 "Tentando ser melhor"
-- 🌱 Atualmente tenho aprendido Java
-- ⚡ Cursando Engenharia de Software na UFG (2021 - 2026)
+- 🌱 Atualmente tenho aprendido IOT na prática!
+- ⚡ Cursando Engenharia de Software na UFG (2021 - 2025)
 
 <div>
   <a href="https://beacons.ai/FilipePaco">
