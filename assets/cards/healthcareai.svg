@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>HealthCareAI</title>
+<rect x="0.5" y="0.5" width="419" height="199" rx="12" fill="#FFFFFF" stroke="#D5DAE1"/>
+<rect x="0.5" y="0.5" width="6" height="199" rx="3" fill="#22375C"/>
+<text x="24" y="40" font-size="20" font-weight="700" fill="#22375C">HealthCareAI</text>
+
+<text x="24" y="76" font-size="14" fill="#2F3336">Auditable reporting agent on public health</text><text x="24" y="96" font-size="14" fill="#2F3336">data. SQL computes numbers, not the LLM.</text>
+<text x="24" y="132" font-size="13" font-weight="600" fill="#5F6670">67 automated tests · cost tracked per report</text>
+<rect x="24" y="156" width="60" height="22" rx="11" fill="#EEF2F7"/><text x="54" y="171" font-size="12" fill="#22375C" text-anchor="middle">FastAPI</text><rect x="90" y="156" width="80" height="22" rx="11" fill="#EEF2F7"/><text x="130" y="171" font-size="12" fill="#22375C" text-anchor="middle">PostgreSQL</text><rect x="176" y="156" width="73" height="22" rx="11" fill="#EEF2F7"/><text x="213" y="171" font-size="12" fill="#22375C" text-anchor="middle">LangGraph</text><rect x="256" y="156" width="34" height="22" rx="11" fill="#EEF2F7"/><text x="272" y="171" font-size="12" fill="#22375C" text-anchor="middle">RAG</text><rect x="295" y="156" width="54" height="22" rx="11" fill="#EEF2F7"/><text x="322" y="171" font-size="12" fill="#22375C" text-anchor="middle">Docker</text>
+</svg>

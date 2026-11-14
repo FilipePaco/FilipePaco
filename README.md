@@ -1,34 +1,44 @@
 # Filipe Paço
 
-**Applied AI Engineer** · LLM products and agents in regulated finance · Brazil
+**Software Engineer** · Python backends and ML systems for regulated finance · Brazil
 
-I build AI systems that hold up in production: LLM and agent workflows with evaluation, audit trails and guardrails designed in from day one. I have 4+ years of professional software engineering, most of it in banking and other regulated environments.
+I build systems that people rely on: Python and Django services, data pipelines and ML models, shipped with tests, CI and audit trails from day one. I have 4+ years of professional software engineering, most of it in banking and other regulated environments, and I use AI tools every day across the whole development cycle.
 
 [LinkedIn](https://www.linkedin.com/in/filipe-pa%C3%A7o-926233237/) · [Aura Spell](https://auraspell.app/?lang=en)
 
-## What I've shipped
-
-- **AI credit analysis (RAG + LLMs) at a cooperative bank.** A production system that classifies credit risk from credit opinions and checks compliance against regulatory data, integrated into the core credit platform. It cut process time by **37%** and analysts' data-entry time by **62%**.
-- **LLM fine-tuning and evaluation** at a university AI research center: data collection, synthetic data, training and evaluation against the base model, with **~40% fewer invalid structured outputs**. I also built an LLM scoring engine (**~70% faster turnaround**) and a multi-agent assessment system in LangGraph running on a restricted network.
-- **AI-native development at a financial-services client** (current): an agentic development stack with an MCP gateway, and DORA metrics to measure how AI tooling changes delivery.
-
 ## Projects
 
-| Project | What it shows |
-| --- | --- |
-| [**Aura Spell**](https://auraspell.app/?lang=en) | AI chat app I built and launched solo on iOS and Android: real-time Django backend, LLM layer with guardrails, Stripe and Apple in-app payments. |
-| [**pig_finserv**](https://github.com/FilipePaco/pig_finserv) | Financial-complaint triage on the CFPB database: calibrated classifier, cost-aware human review, PII masking and a hash-chained audit log. |
-| [**HealthCareAI**](https://github.com/FilipePaco/HealthCareAI) | Auditable reporting agent on public health data: FastAPI, PostgreSQL, LangGraph tool calling and RAG, cost observability, 67 tests. |
+<table>
+  <tr>
+    <td><a href="https://github.com/FilipePaco/finint-agent"><img src="assets/cards/finint-agent.svg" alt="finint-agent: AML alert investigation with ML scoring" width="400"></a></td>
+    <td><a href="https://auraspell.app/?lang=en"><img src="assets/cards/aura-spell.svg" alt="Aura Spell: AI chat app built and launched solo on iOS and Android" width="400"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/FilipePaco/pig_finserv"><img src="assets/cards/pig-finserv.svg" alt="pig_finserv: financial-complaint triage on the CFPB database" width="400"></a></td>
+    <td><a href="https://github.com/FilipePaco/HealthCareAI"><img src="assets/cards/healthcareai.svg" alt="HealthCareAI: auditable reporting agent on public health data" width="400"></a></td>
+  </tr>
+</table>
+
+### Currently building: finint-agent
+
+A model scores transactions and raises alerts sized to the analyst team's capacity. For each alert, read-only tools gather evidence, screen parties against the OFAC sanctions list and draft a grounded case file. Deterministic code enforces grounding and policy, a human analyst makes the final decision, and every step lands in a hash-chained audit log.
+
+<a href="https://github.com/FilipePaco/finint-agent"><img src="https://github.com/FilipePaco/finint-agent/raw/main/docs/architecture.png" alt="finint-agent architecture" width="100%"></a>
+
+## What I've shipped
+
+- **Credit-analysis service at a cooperative bank.** A Python/Django service integrated into the core credit platform through REST APIs, used daily by credit analysts, with an LLM step that classifies risk and checks compliance. It cut process time by **37%** and analysts' data entry by **62%**. I also wrote internal libraries that other teams adopted and a monitoring service the team uses every day.
+- **Assessment platform at a university AI center**, as technical lead of a 3-person team: output validation, an on-premise deployment on a restricted network and an end-to-end fine-tuned model (**~70% faster turnaround**, **~40% fewer invalid outputs**).
+- **RoadBox AI**, from zero to production with a 7-person team: smart-camera ingestion, real-time detection in PyTorch and OpenCV, backend uploads, statistics and heatmaps.
+- **AI-native SDLC at a financial-services client** (current): automating development workflows and measuring delivery with DORA metrics.
 
 ## Stack
 
-- **Applied AI:** LLM fine-tuning · evaluation · RAG · agents (LangChain, LangGraph, MCP) · LiteLLM · Azure OpenAI · Whisper
-- **ML and vision:** scikit-learn · PyTorch (Ultralytics YOLO) · OpenCV
-- **Backend:** Python · Django · FastAPI · PostgreSQL · Redis · REST APIs
-- **Delivery:** Docker · CI/CD · AWS · spec-driven development with Claude Code
+- **Backend:** Python · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Kafka · REST APIs
+- **Data and ML:** DuckDB · pandas · scikit-learn · LightGBM · PyTorch · PyTorch Geometric · OpenCV
+- **AI:** LangGraph · RAG · fine-tuning and evaluation · LiteLLM · MCP · Gemini · Azure OpenAI · Whisper
+- **Delivery:** Docker · GitHub Actions · AWS · pytest · mypy · spec-driven development with Claude Code
 
-## Certifications
+## Education and certifications
 
-Databricks Certified Generative AI Engineer Associate · Claude Certified Architect – Foundations
-
-B.Sc. in Software Engineering, Federal University of Goiás (UFG) · Portuguese (native), English (C1)
+B.Sc. in Software Engineering, Federal University of Goiás (UFG) · Databricks Certified Generative AI Engineer Associate · Claude Certified Architect – Foundations · Portuguese (native), English (C1)
