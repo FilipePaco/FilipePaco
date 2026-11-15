@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Aura Spell</title>
+<rect x="0.5" y="0.5" width="419" height="199" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="0.5" y="0.5" width="6" height="199" rx="3" fill="#4C8DFF"/>
+<text x="24" y="40" font-size="20" font-weight="700" fill="#E6EDF3">Aura Spell</text>
+<rect x="329" y="22" width="67" height="20" rx="10" fill="#4C8DFF"/><text x="362" y="36" font-size="10.5" font-weight="700" fill="#0D1117" text-anchor="middle" letter-spacing="0.6">LIVE APP</text>
+<text x="24" y="76" font-size="14" fill="#C9D1D9">AI chat app I built and launched solo</text><text x="24" y="96" font-size="14" fill="#C9D1D9">on iOS and Android, with real payments.</text>
+<text x="24" y="132" font-size="13" font-weight="600" fill="#8B949E">Real-time backend · Stripe and Apple IAP</text>
+<rect x="24" y="156" width="54" height="22" rx="11" fill="#21262D"/><text x="51" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Django</text><rect x="84" y="156" width="106" height="22" rx="11" fill="#21262D"/><text x="137" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Channels/Redis</text><rect x="196" y="156" width="80" height="22" rx="11" fill="#21262D"/><text x="236" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">PostgreSQL</text><rect x="282" y="156" width="60" height="22" rx="11" fill="#21262D"/><text x="312" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Flutter</text>
+</svg>

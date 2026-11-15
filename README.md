@@ -1,21 +1,22 @@
-# Filipe Paço
+<a href="https://github.com/FilipePaco/finint-agent"><img src="assets/banner.svg" alt="Filipe Paço, Software Engineer: Python backends and ML systems for regulated finance" width="100%"></a>
 
-**Software Engineer** · Python backends and ML systems for regulated finance · Brazil
+<p>
+  <a href="https://www.linkedin.com/in/filipe-pa%C3%A7o-926233237/"><img src="https://img.shields.io/badge/LinkedIn-Filipe%20Pa%C3%A7o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://auraspell.app/?lang=en"><img src="https://img.shields.io/badge/Live%20app-Aura%20Spell-22375C?style=for-the-badge" alt="Aura Spell"></a>
+</p>
 
 I build systems that people rely on: Python and Django services, data pipelines and ML models, shipped with tests, CI and audit trails from day one. I have 4+ years of professional software engineering, most of it in banking and other regulated environments, and I use AI tools every day across the whole development cycle.
-
-[LinkedIn](https://www.linkedin.com/in/filipe-pa%C3%A7o-926233237/) · [Aura Spell](https://auraspell.app/?lang=en)
 
 ## Projects
 
 <table>
   <tr>
-    <td><a href="https://github.com/FilipePaco/finint-agent"><img src="assets/cards/finint-agent.svg" alt="finint-agent: AML alert investigation with ML scoring" width="400"></a></td>
-    <td><a href="https://auraspell.app/?lang=en"><img src="assets/cards/aura-spell.svg" alt="Aura Spell: AI chat app built and launched solo on iOS and Android" width="400"></a></td>
+    <td><a href="https://github.com/FilipePaco/finint-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/finint-agent-dark.svg"><img src="assets/cards/finint-agent.svg" alt="finint-agent: AML alert investigation with ML scoring" width="400"></picture></a></td>
+    <td><a href="https://auraspell.app/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/aura-spell-dark.svg"><img src="assets/cards/aura-spell.svg" alt="Aura Spell: AI chat app built and launched solo on iOS and Android" width="400"></picture></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FilipePaco/pig_finserv"><img src="assets/cards/pig-finserv.svg" alt="pig_finserv: financial-complaint triage on the CFPB database" width="400"></a></td>
-    <td><a href="https://github.com/FilipePaco/HealthCareAI"><img src="assets/cards/healthcareai.svg" alt="HealthCareAI: auditable reporting agent on public health data" width="400"></a></td>
+    <td><a href="https://github.com/FilipePaco/pig_finserv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/pig-finserv-dark.svg"><img src="assets/cards/pig-finserv.svg" alt="pig_finserv: financial-complaint triage on the CFPB database" width="400"></picture></a></td>
+    <td><a href="https://github.com/FilipePaco/HealthCareAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/healthcareai-dark.svg"><img src="assets/cards/healthcareai.svg" alt="HealthCareAI: auditable reporting agent on public health data" width="400"></picture></a></td>
   </tr>
 </table>
 
@@ -34,10 +35,11 @@ A model scores transactions and raises alerts sized to the analyst team's capaci
 
 ## Stack
 
-- **Backend:** Python · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Kafka · REST APIs
-- **Data and ML:** DuckDB · pandas · scikit-learn · LightGBM · PyTorch · PyTorch Geometric · OpenCV
-- **AI:** LangGraph · RAG · fine-tuning and evaluation · LiteLLM · MCP · Gemini · Azure OpenAI · Whisper
-- **Delivery:** Docker · GitHub Actions · AWS · pytest · mypy · spec-driven development with Claude Code
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,kafka,pytorch,sklearn,docker,aws,githubactions,flutter&perline=12" alt="Python, Django, FastAPI, PostgreSQL, Redis, Kafka, PyTorch, scikit-learn, Docker, AWS, GitHub Actions, Flutter">
+</p>
+
+Also: Django REST Framework · DuckDB · LightGBM · PyTorch Geometric · LangGraph · RAG · LiteLLM · MCP · pytest · mypy · spec-driven development with Claude Code
 
 ## Education and certifications
 

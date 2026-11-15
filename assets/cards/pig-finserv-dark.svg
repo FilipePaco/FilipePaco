@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>pig_finserv</title>
+<rect x="0.5" y="0.5" width="419" height="199" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="0.5" y="0.5" width="6" height="199" rx="3" fill="#4C8DFF"/>
+<text x="24" y="40" font-size="20" font-weight="700" fill="#E6EDF3">pig_finserv</text>
+
+<text x="24" y="76" font-size="14" fill="#C9D1D9">Financial-complaint triage on the CFPB</text><text x="24" y="96" font-size="14" fill="#C9D1D9">database: PII masking, human review.</text>
+<text x="24" y="132" font-size="13" font-weight="600" fill="#8B949E">Hash-chained audit log on every decision</text>
+<rect x="24" y="156" width="54" height="22" rx="11" fill="#21262D"/><text x="51" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Python</text><rect x="84" y="156" width="93" height="22" rx="11" fill="#21262D"/><text x="130" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">scikit-learn</text><rect x="183" y="156" width="54" height="22" rx="11" fill="#21262D"/><text x="210" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">DuckDB</text><rect x="242" y="156" width="47" height="22" rx="11" fill="#21262D"/><text x="266" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Typer</text><rect x="295" y="156" width="73" height="22" rx="11" fill="#21262D"/><text x="332" y="171" font-size="12" fill="#C9D1D9" text-anchor="middle">Streamlit</text>
+</svg>
