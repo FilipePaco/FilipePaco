@@ -1,4 +1,4 @@
-<a href="https://github.com/FilipePaco/finint-agent"><img src="assets/banner.svg" alt="Filipe Paço, Software Engineer: Python backends and ML systems for regulated finance" width="100%"></a>
+<a href="https://github.com/FilipePaco/finint-agent"><img src="assets/banner.svg" alt="Filipe Paço, Software &amp; AI Engineer: Python backends and ML systems for regulated finance" width="100%"></a>
 
 <p>
   <a href="https://www.linkedin.com/in/filipe-pa%C3%A7o-926233237/"><img src="https://img.shields.io/badge/LinkedIn-Filipe%20Pa%C3%A7o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
